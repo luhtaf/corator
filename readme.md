@@ -2,9 +2,8 @@
 
 **Coraza-based WAF with Transparent File Interception for Digital Forensics**
 
-[![Go Version](https://img.shields.io/badge/go-1.18+-blue.svg)](https://golang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/luhtaf/corator)
+[![Go Version](https://img.shields.io/badge/go-1.25+-blue.svg)](https://golang.org/)
+
 
 ---
 
